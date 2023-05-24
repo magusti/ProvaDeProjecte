@@ -6,3 +6,5 @@ anyadint coses al README
 Creant un  subdirectori1 - No es veu
 
 Cree un fitxer dins del subdir1 i fique un poc de text
+
+Creant subdir2
